@@ -124,7 +124,7 @@ The project provides actionable insights through data visualization and statisti
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Devanand K**
 
 Data Analytics Intern
 
