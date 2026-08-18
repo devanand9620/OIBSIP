@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,Gender,Joining_Date,Salary
+101, Anish ,25.0,Male,2023-01-15,50000
+102, Rahul,,male,15/01/2023,60000
+103,Sreeja,30.0,F,2023-02-20, 55000 
+104,Devanand,22.0,M,2023-03-10,70000
+105, Maya ,28.0,Female,2023-03-12,65000
+105, Maya ,28.0,Female,2023-03-12,65000
+107,Arun,150.0,M,2023/04/01,80000
+108, Kavya,24.0,Female,,
+109,Nikhil,,male,2023-05-18,48000
+110,Priya,29.0,F,2023-06-22,75000
